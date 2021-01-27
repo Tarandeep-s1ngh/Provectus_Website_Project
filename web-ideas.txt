@@ -1,0 +1,16 @@
+main page - home (operations) , about , products , careers , contact us (sunphrma)
+
+operations - manufacturing,quality,research
+
+about us - intro,vision&values,board of directors
+
+products
+
+careers - work with us/life at provectus/current openings
+
+contact us - official address/registered addr, agency address, contact numbers/ph, customer care, e-mail, website
+
+*main page
+	quality,affordability,availability
+	our brands/products
+	company(mankind mainpg), follow us , testimonials
